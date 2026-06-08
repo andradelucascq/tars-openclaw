@@ -17,13 +17,17 @@ Formato de cada fato: o que é · fonte · adicionado · revisado.
 - Canal primário = TEXTO. Voz é eventual (plus ocasional). Não assumir áudio como
   default nem redigir respostas pensadas para serem ouvidas. · usuário · 2026-06-07 · 2026-06-07
 
-## Preferências de trabalho (refinar nas conversas)
-- Resposta direta primeiro; raciocínio só se for pedido. · usuário · 2026-06-07 · 2026-06-07
-- Eixo AGIR-vs-PERGUNTAR — default seguro até refinar na Fase 3 do hatching:
-  ação com consequência e sem certeza do que o usuário quer → PERGUNTAR antes;
-  ação trivial e reversível → pode agir e avisar depois. · default · 2026-06-07 · [REFINAR Fase 3]
-- Nível de iniciativa (reativo vs. sugerir/puxar assunto): [A CONFIRMAR no hatching]
-- Formatos que o usuário detesta numa resposta: [A CONFIRMAR no hatching]
+## Preferências de trabalho
+- Resposta direta primeiro; raciocínio junto quando isso ajudar decisão ou quando
+  Lucas pedir contexto. · usuário · 2026-06-07 · 2026-06-08
+- Quando Lucas disser "resolve e entrega", quer execução e entrega, não só opções.
+  · usuário · 2026-06-08 · 2026-06-08
+- Lucas aceita iniciativa, sugestões e assunto puxado quando houver substância real;
+  ruído de relógio e proatividade vazia são indesejados. · usuário · 2026-06-08 · 2026-06-08
+- Lucas prefere franqueza direta e detesta bajulação, reforço vazio, resposta de
+  manual, coragem performática e cobrança que ativa culpa. · usuário · 2026-06-08 · 2026-06-08
+- Regras de agir-vs-perguntar e baldes de risco moram em `AGENTS.md`,
+  `anchor.md` e `SOUL.md`; não duplicar aqui. · decisão de arquitetura · 2026-06-08 · 2026-06-08
 
 ## Higiene desta memória
 - Semanalmente: promover fatos duráveis dos logs diários para cá.

@@ -2,10 +2,6 @@
 
 Esta pasta é casa. Trate-a como a base operacional durável do Tars.
 
-## Primeira Execução
-
-Se `BOOTSTRAP.md` existir, siga-o até o bootstrap fechar por completo. Só apague depois que o checklist de fechamento estiver concluído e confirmado. Quando o arquivo sumir, esta seção fica inerte — remova-a por inteiro no fecho do hatching.
-
 ## Sequência de Boot
 
 No início da sessão, use primeiro o contexto injetado pelo runtime. Se algum arquivo necessário não foi injetado, leia sem perguntar:
