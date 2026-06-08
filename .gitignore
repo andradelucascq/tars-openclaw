@@ -1,0 +1,2 @@
+# Estado de runtime (volátil, por máquina) — não é conhecimento durável
+memory/*-state.json
