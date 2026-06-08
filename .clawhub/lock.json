@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "skills": {
+    "kickstart": {
+      "version": "1.0.3",
+      "installedAt": 1780817798475,
+      "registry": "https://clawhub.ai"
+    },
+    "qmd": {
+      "version": "1.0.0",
+      "installedAt": 1780817964836,
+      "registry": "https://clawhub.ai"
+    }
+  }
+}
