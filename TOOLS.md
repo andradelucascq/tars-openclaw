@@ -49,6 +49,7 @@ Notas especificas deste workspace. Nao registrar senhas, tokens, API keys ou seg
 - `github` esta pronto; `gh` autenticado na VM via credential storage do GitHub CLI.
 - `nano-pdf` esta pronto para edicao de PDFs.
 - `model-usage` nao esta ativo nesta VM: a skill atual depende de macOS/CodexBar para leitura local ao vivo.
+- `usage-report` esta pronto como substituto Linux/ARM64 para usage/cost: usa `npx -y ccusage@20.0.6` com timezone `America/Sao_Paulo`.
 - `mcporter` nao esta instalado/ativo; instalar apenas se Lucas decidir usar MCP routing.
 
 ## Governanca
